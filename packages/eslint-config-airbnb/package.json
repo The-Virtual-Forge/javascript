@@ -1,7 +1,7 @@
 {
-  "name": "eslint-config-airbnb",
+  "name": "eslint-config-vf",
   "version": "6.0.2",
-  "description": "Airbnb's ESLint config, following our styleguide",
+  "description": "Virtual Forrge's ESLint config, following our styleguide",
   "main": "index.js",
   "scripts": {
     "lint": "eslint .",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/airbnb/javascript"
+    "url": "https://github.com/The-Virtual-Forge/javascript"
   },
   "keywords": [
     "eslint",
@@ -34,13 +34,18 @@
     {
       "name": "Harrison Shoff",
       "url": "https://twitter.com/hshoff"
+    },
+    {
+      "name": "Terry Morgan",
+      "url": "https://twitter.com/shodan_uk"
     }
+
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/airbnb/javascript/issues"
+    "url": "https://github.com/The-Virtual-Forge/javascript/issues"
   },
-  "homepage": "https://github.com/airbnb/javascript",
+  "homepage": "https://github.com/The-Virtual-Forge/javascript",
   "devDependencies": {
     "babel-tape-runner": "^1.3.1",
     "eslint": "^2.2.0",

@@ -1,14 +1,14 @@
 {
-  "name": "airbnb-style",
+  "name": "vf-style",
   "version": "2.0.0",
   "description": "A mostly reasonable approach to JavaScript.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "publish-all": "npm publish && cd ./packages/eslint-config-airbnb && npm publish"
+    "publish-all": "npm publish && cd ./packages/eslint-config-vf && npm publish"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/airbnb/javascript.git"
+    "url": "https://github.com/The-Virtual-Forge/javascript.git"
   },
   "keywords": [
     "style guide",
@@ -20,6 +20,12 @@
     "jsx"
   ],
   "author": "Harrison Shoff <hi@hshoff.com> (https://twitter.com/hshoff)",
+  "contributors": [
+    {
+      "name": "Terry Morgan",
+      "url": "https://twitter.com/shodan_uk"
+    }
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/The-Virtual-Forge/javascript/issues"
